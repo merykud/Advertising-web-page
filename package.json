@@ -1,0 +1,22 @@
+{
+  "name": "soap",
+  "version": "1.0.0",
+  "description": "Advertising web page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merykud/Advertising-web-page.git"
+  },
+  "author": "Merjem Kudeimati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/merykud/Advertising-web-page/issues"
+  },
+  "homepage": "https://github.com/merykud/Advertising-web-page#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

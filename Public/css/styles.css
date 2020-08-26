@@ -1,0 +1,152 @@
+h1 {
+  font-family: 'Berkshire Swash', cursive;
+  color: #d4cbbb;
+  font-size: 6vw;
+  letter-spacing: 0.5rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #d4cbbb;
+  font-size: 2.2vw;
+  letter-spacing: 0.2rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #d4cbbb;
+  font-size: 1.8vw;
+  letter-spacing: 0.2rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#h2-white {
+  color: #fff;
+  font-size: 2.2vw;
+  padding-bottom: 3rem;
+  font-weight: bolder;
+  text-align: center;
+}
+
+p {
+  font-size: 1.9vw;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #fff;
+  line-height: 1.6;
+}
+
+.first-row {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+}
+
+.first-row .title-div {
+  position: absolute;
+  z-index: 999;
+  margin: auto;
+  left: 0;
+  right: 0;
+  top: 5%;
+  /* Adjust this value to move the positioned div up and down */
+  text-align: center;
+  width: 60%;
+  /* Set the width of the positioned div */
+}
+
+
+.main-image {
+  width: 100%;
+}
+
+.main-image-div {
+  padding: 0;
+}
+
+/* section three */
+.section-three {
+  background-color: #d4cbbb;
+  padding: 10% 15% 10%;
+}
+
+.section-two {
+  background-color: #fff;
+  padding: 10% 15% 10%;
+  text-align: center;
+}
+
+.ikonice {
+  width: 50%;
+  border-radius: 100%;
+  padding: 0 15px 15px;
+}
+
+#natural-h1 {
+  font-family: 'Montserrat', sans-serif;
+  color: #648d2e;
+  font-size: 5vw;
+  margin-bottom: 5rem;
+}
+
+.products {
+  background-color: #fff;
+
+  text-align: center;
+}
+
+.last-section {
+  background-color: #255340;
+  padding: 10% 15% 10%;
+  text-align: center;
+}
+
+.footer-image {
+  width: 100%;
+}
+#contact-h2{
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 4vw;
+  padding-top: 6%;
+  padding-bottom: 4%;
+  text-align: center;
+}
+.contact-div{
+  padding-top: 5%;
+  text-align: center;
+  margin: 10%;
+  letter-spacing: 0.1rem;
+
+}
+.soap-image{
+  width: 95%;
+}
+.soap-text{
+  color: #648d2e;
+  font-size: 1.2rem;
+}
+
+.card-item{
+  padding: 0 2% 3% 0;
+  text-align: center;
+}
+#carouselExampleControls{
+  padding: 10% 15% 10%;
+}
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 30px;
+  color: #d4cbbb;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 30px;
+  color: #d4cbbb;
+}
